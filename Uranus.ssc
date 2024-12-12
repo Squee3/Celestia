@@ -1,0 +1,15 @@
+
+Modify "Uranus" "Sol"
+
+### if using spice use replace instead of modify  ###
+### Replace "Uranus" "Sol" ###
+
+{
+	Rings 
+        {	
+                  Inner  26840
+                  Outer  103000
+                  Texture "UranusRingsJVV.png"  
+	}
+
+}

@@ -1,0 +1,8 @@
+Modify "Neptune" "Sol"
+{
+	Rings {
+		Inner  	41500
+		Outer  	63500
+		Texture	"neptune-rings-new.png"
+		}
+}
